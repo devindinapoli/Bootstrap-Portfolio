@@ -1,0 +1,13 @@
+body {
+    background-image: url("images/spiration-light.png");
+    margin: 0 auto;
+}
+footer{
+clear: both;
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    padding: 25px 0;
+}
+
+
